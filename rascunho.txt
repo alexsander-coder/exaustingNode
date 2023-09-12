@@ -1,0 +1,6 @@
+RF = o usuario deve fazer checkin
+(o que o user podera fazer dentro da aplicacao)
+
+rn = o usuario só podera fazer checkin se estiver a menos de 10km da academia
+(determina as condições aplicadas para cada RF)
+(as RN sempre estarão associada a uma RF)
